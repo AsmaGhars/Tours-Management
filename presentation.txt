@@ -1,0 +1,7 @@
+Presentation: 
+Our Tour module provides tour operators with a streamlined platform to effortlessly craft, promote, and sell guided tours. 
+With a user-friendly "Add Tour" interface, operators can input “Tour” details such as name, destination, duration, and meeting points.
+The module's dynamic "New Period" feature facilitates flexible pricing and availability scheduling, while the “Add Image” option enhances visual appeal.
+Advanced pricing controls, including child rates and special conditions through the “New Price” and “New Condition” interfaces, cater to diverse market demands.
+The “New Location” and ”New Provider”  interfaces facilitate precise geotagging and efficient collaboration.
+This module empowers tour operators to showcase their unique offerings and enables travelers to embark on immersive journeys with ease.
